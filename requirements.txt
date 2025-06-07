@@ -7,4 +7,9 @@ pandas
 ultralytics
 numpy
 cv2
+opencv-python
+streamlit
+torch
+numpy
+
 
