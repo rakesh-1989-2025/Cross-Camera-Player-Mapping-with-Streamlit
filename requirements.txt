@@ -1,8 +1,8 @@
-streamlit==1.23.0
-opencv-python==4.5.5.64
-torch==2.0.1
-torchvision==0.15.2
-scikit-learn==1.2.2
-pandas==1.5.3
-ultralytics==8.0.0
-numpy==1.23.5
+streamlit
+opencv-python
+torch
+torchvision
+scikit-learn
+pandas
+ultralytics
+numpy
